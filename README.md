@@ -1,3 +1,5 @@
 - Bacon
 - Eggs
 - Milk
+- Bread
+- Juice
